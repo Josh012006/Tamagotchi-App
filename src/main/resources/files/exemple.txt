@@ -1,0 +1,5 @@
+joy:10
+fear: 1
+anger : 2
+sadness :10
+joy : 8
