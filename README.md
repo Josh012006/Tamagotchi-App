@@ -13,8 +13,10 @@ This project helped us work with Java and particularly with subjects like :
 
 ## Contributors
 
-- [Josué Mongan][https://github.com/Josh012006]
-- [Kuza Twagiramungu][https://github.com/kuzatw]
+- **Josué Mongan**  
+  GitHub : [Josh012006](https://github.com/Josh012006)  
+- **Kuzatw**  
+  GitHub : [kuzatw](https://github.com/kuzatw) 
 
 ## Licensing
 
